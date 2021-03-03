@@ -1,6 +1,5 @@
 # Password_Generator
-Projeto simples com o objetivo de gerar senhas aleatórias com 12 caracteres.
-
+Projeto simples com o objetivo de gerar senhas aleatórias com 12 caracteres no máximo.
 Essa mesma senha deverá cumprir as seguintes condições:
   * Tamanho (12 caracteres)
   * Conter pelo menos 1 dígito
